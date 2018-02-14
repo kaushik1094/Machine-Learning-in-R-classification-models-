@@ -1,0 +1,1 @@
+In this business problem Wine owner wants to know which customer wants which wine according clustering analysis he has obtained the some data with 13 features but classification with 13 features is little clumsy so I have  used  PCA, LDA and Kernel PCA for feature extraction to classify the segments in this we are using R.
